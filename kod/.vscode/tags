@@ -1,0 +1,311 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+ACTION_TIMES	../lab3/lab3.py	/^ACTION_TIMES = {$/;"	kind:variable	line:29
+ACTION_TIMES	../lab4/lab4.py	/^ACTION_TIMES = {$/;"	kind:variable	line:29
+Blinker	../lab1/lab1.py	/^class Blinker:$/;"	kind:class	line:185
+Blinker	../lab2/lab2.py	/^class Blinker:$/;"	kind:class	line:241
+COLOR_OFF	../lab1/repeater.py	/^    COLOR_OFF = (0.1, 0.1, 0.1)$/;"	kind:variable	line:30
+COLOR_OFF	../lab2/repeater.py	/^    COLOR_OFF = (0.1, 0.1, 0.1)$/;"	kind:variable	line:30
+COLOR_ON	../lab1/repeater.py	/^    COLOR_ON = (1, 1, 0)$/;"	kind:variable	line:31
+COLOR_ON	../lab2/repeater.py	/^    COLOR_ON = (1, 1, 0)$/;"	kind:variable	line:31
+CONTROL_INTERVAL	../lab3/lab3.py	/^CONTROL_INTERVAL = 0.1$/;"	kind:variable	line:17
+CONTROL_INTERVAL	../lab4/lab4.py	/^CONTROL_INTERVAL = 0.1$/;"	kind:variable	line:17
+DEBUG_MODE	../lab3/lab3.py	/^DEBUG_MODE = False$/;"	kind:variable	line:9
+DEBUG_MODE	../lab4/lab4.py	/^DEBUG_MODE = False$/;"	kind:variable	line:9
+DIRECTION_DOWN	../lab3/lift.py	/^DIRECTION_DOWN = 1$/;"	kind:variable	line:29
+DIRECTION_DOWN	../lab4/lift.py	/^DIRECTION_DOWN = 1$/;"	kind:variable	line:29
+DIRECTION_NONE	../lab3/lift.py	/^DIRECTION_NONE = -1$/;"	kind:variable	line:27
+DIRECTION_NONE	../lab4/lift.py	/^DIRECTION_NONE = -1$/;"	kind:variable	line:27
+DIRECTION_UP	../lab3/lift.py	/^DIRECTION_UP = 0$/;"	kind:variable	line:28
+DIRECTION_UP	../lab4/lift.py	/^DIRECTION_UP = 0$/;"	kind:variable	line:28
+DOORS_CLOSED	../lab3/lab3.py	/^DOORS_CLOSED = 1$/;"	kind:variable	line:22
+DOORS_CLOSED	../lab4/lab4.py	/^DOORS_CLOSED = 1$/;"	kind:variable	line:22
+DOORS_CLOSING	../lab3/lab3.py	/^DOORS_CLOSING = 4$/;"	kind:variable	line:25
+DOORS_CLOSING	../lab4/lab4.py	/^DOORS_CLOSING = 4$/;"	kind:variable	line:25
+DOORS_OPEN	../lab3/lab3.py	/^DOORS_OPEN = 3$/;"	kind:variable	line:24
+DOORS_OPEN	../lab4/lab4.py	/^DOORS_OPEN = 3$/;"	kind:variable	line:24
+DOORS_OPENING	../lab3/lab3.py	/^DOORS_OPENING = 2$/;"	kind:variable	line:23
+DOORS_OPENING	../lab4/lab4.py	/^DOORS_OPENING = 2$/;"	kind:variable	line:23
+DirectionLED	../lab3/lift.py	/^class DirectionLED(Label):$/;"	kind:class	line:32
+DirectionLED	../lab4/lift.py	/^class DirectionLED(Label):$/;"	kind:class	line:32
+ERROR	../lab1/lab1.py	/^    ERROR = 4$/;"	kind:variable	line:14
+Elevator	../lab3/lab3.py	/^class Elevator:$/;"	kind:class	line:50
+Elevator	../lab4/lab4.py	/^class Elevator:$/;"	kind:class	line:50
+Game	../lab1/lab1.py	/^class Game:$/;"	kind:class	line:8
+Game	../lab2/lab2.py	/^class Game:$/;"	kind:class	line:8
+IDLE	../lab1/lab1.py	/^    IDLE = 0$/;"	kind:variable	line:10
+IDLE	../lab2/lab2.py	/^    IDLE = 0$/;"	kind:variable	line:10
+INIT	../lab2/lab2.py	/^    INIT = 1$/;"	kind:variable	line:11
+INPUT	../lab1/lab1.py	/^    INPUT = 3$/;"	kind:variable	line:13
+INPUT_SINGLE	../lab2/lab2.py	/^    INPUT_SINGLE = 4$/;"	kind:variable	line:14
+INVISIBLE_COLOR	../lab3/lift.py	/^    INVISIBLE_COLOR = (0, 0, 0, 0)$/;"	kind:variable	line:35
+INVISIBLE_COLOR	../lab4/lift.py	/^    INVISIBLE_COLOR = (0, 0, 0, 0)$/;"	kind:variable	line:35
+LEDLight	../lab1/repeater.py	/^class LEDLight(Label):$/;"	kind:class	line:29
+LEDLight	../lab2/repeater.py	/^class LEDLight(Label):$/;"	kind:class	line:29
+LIFT_MOVING	../lab3/lab3.py	/^LIFT_MOVING = 1$/;"	kind:variable	line:20
+LIFT_MOVING	../lab4/lab4.py	/^LIFT_MOVING = 1$/;"	kind:variable	line:20
+LIFT_STOPPED	../lab3/lab3.py	/^LIFT_STOPPED = 0$/;"	kind:variable	line:19
+LIFT_STOPPED	../lab4/lab4.py	/^LIFT_STOPPED = 0$/;"	kind:variable	line:19
+Lift	../lab3/lift.py	/^class Lift(App):$/;"	kind:class	line:112
+Lift	../lab4/lift.py	/^class Lift(App):$/;"	kind:class	line:112
+LiftInterface	../lab3/lift.py	/^class LiftInterface(BoxLayout):$/;"	kind:class	line:108
+LiftInterface	../lab4/lift.py	/^class LiftInterface(BoxLayout):$/;"	kind:class	line:108
+LiftSimulator	../lab3/lab3.py	/^class LiftSimulator:$/;"	kind:class	line:192
+LiftSimulator	../lab4/lab4.py	/^class LiftSimulator:$/;"	kind:class	line:218
+M	../lab3/lab3.py	/^M = 2$/;"	kind:variable	line:15
+M	../lab4/lab4.py	/^M = 2$/;"	kind:variable	line:15
+MOVEMENT	../lab3/lab3.py	/^MOVEMENT = {DIRECTION_UP: +0.5, DIRECTION_DOWN: -0.5}$/;"	kind:variable	line:28
+MOVEMENT	../lab4/lab4.py	/^MOVEMENT = {DIRECTION_UP: +0.5, DIRECTION_DOWN: -0.5}$/;"	kind:variable	line:28
+N	../lab3/lab3.py	/^N = 5$/;"	kind:variable	line:14
+N	../lab4/lab4.py	/^N = 5$/;"	kind:variable	line:14
+OO	../lab3/lab3.py	/^OO = 100000$/;"	kind:variable	line:12
+OO	../lab4/lab4.py	/^OO = 100000$/;"	kind:variable	line:12
+OTHER_DIR	../lab3/lab3.py	/^OTHER_DIR = {DIRECTION_UP: DIRECTION_DOWN, DIRECTION_DOWN: DIRECTION_UP}$/;"	kind:variable	line:27
+OTHER_DIR	../lab4/lab4.py	/^OTHER_DIR = {DIRECTION_UP: DIRECTION_DOWN, DIRECTION_DOWN: DIRECTION_UP}$/;"	kind:variable	line:27
+PushButton	../lab3/lift.py	/^class PushButton(Button):$/;"	kind:class	line:10
+PushButton	../lab4/lift.py	/^class PushButton(Button):$/;"	kind:class	line:10
+Repeater	../lab1/repeater.py	/^class Repeater(App):$/;"	kind:class	line:51
+Repeater	../lab2/repeater.py	/^class Repeater(App):$/;"	kind:class	line:51
+RepeaterInterface	../lab1/repeater.py	/^class RepeaterInterface(Widget):$/;"	kind:class	line:8
+RepeaterInterface	../lab2/repeater.py	/^class RepeaterInterface(Widget):$/;"	kind:class	line:8
+Runner	../lab2/lab2.py	/^class Runner:$/;"	kind:class	line:272
+SCORE	../lab2/lab2.py	/^    SCORE = 5$/;"	kind:variable	line:15
+SHOW	../lab1/lab1.py	/^    SHOW = 2$/;"	kind:variable	line:12
+SHOW_SINGLE	../lab2/lab2.py	/^    SHOW_SINGLE = 3$/;"	kind:variable	line:13
+START	../lab1/lab1.py	/^    START = 1$/;"	kind:variable	line:11
+START_SINGLE	../lab2/lab2.py	/^    START_SINGLE = 2$/;"	kind:variable	line:12
+STATE_AT_CHANGING	../lab3/lift.py	/^STATE_AT_CHANGING = 3$/;"	kind:variable	line:60
+STATE_AT_CHANGING	../lab4/lift.py	/^STATE_AT_CHANGING = 3$/;"	kind:variable	line:60
+STATE_AT_CLOSED	../lab3/lift.py	/^STATE_AT_CLOSED = 2$/;"	kind:variable	line:59
+STATE_AT_CLOSED	../lab4/lift.py	/^STATE_AT_CLOSED = 2$/;"	kind:variable	line:59
+STATE_AT_OPEN	../lab3/lift.py	/^STATE_AT_OPEN = 4$/;"	kind:variable	line:61
+STATE_AT_OPEN	../lab4/lift.py	/^STATE_AT_OPEN = 4$/;"	kind:variable	line:61
+STATE_FAR	../lab3/lift.py	/^STATE_FAR = 0$/;"	kind:variable	line:57
+STATE_FAR	../lab4/lift.py	/^STATE_FAR = 0$/;"	kind:variable	line:57
+STATE_NEAR	../lab3/lift.py	/^STATE_NEAR = 1$/;"	kind:variable	line:58
+STATE_NEAR	../lab4/lift.py	/^STATE_NEAR = 1$/;"	kind:variable	line:58
+StateLED	../lab3/lift.py	/^class StateLED(Label):$/;"	kind:class	line:64
+StateLED	../lab4/lift.py	/^class StateLED(Label):$/;"	kind:class	line:64
+SwitchButton	../lab1/repeater.py	/^class SwitchButton(Button):$/;"	kind:class	line:12
+SwitchButton	../lab2/repeater.py	/^class SwitchButton(Button):$/;"	kind:class	line:12
+VISIBLE_COLOR	../lab3/lift.py	/^    VISIBLE_COLOR = (1.0, 1.0, 1.0, 1.0)$/;"	kind:variable	line:34
+VISIBLE_COLOR	../lab4/lift.py	/^    VISIBLE_COLOR = (1.0, 1.0, 1.0, 1.0)$/;"	kind:variable	line:34
+_START_TIME	../lab3/lab3.py	/^_START_TIME = None$/;"	kind:variable	line:10
+_START_TIME	../lab4/lab4.py	/^_START_TIME = None$/;"	kind:variable	line:10
+__init__	../lab1/lab1.py	/^    def __init__(self):$/;"	kind:member	line:16
+__init__	../lab1/lab1.py	/^    def __init__(self, duration, repeats, action, start=False, debug_mode=False):$/;"	kind:member	line:187
+__init__	../lab1/repeater.py	/^    def __init__(self):$/;"	kind:member	line:53
+__init__	../lab1/repeater.py	/^    def __init__(self, *args, **kwargs):$/;"	kind:member	line:13
+__init__	../lab1/repeater.py	/^    def __init__(self, *args, **kwargs):$/;"	kind:member	line:37
+__init__	../lab2/lab2.py	/^    def __init__(self):$/;"	kind:member	line:17
+__init__	../lab2/lab2.py	/^    def __init__(self, duration, repeats, action, start=False, debug_mode=False):$/;"	kind:member	line:243
+__init__	../lab2/lab2.py	/^    def __init__(self, lights, repeats, step, action):$/;"	kind:member	line:274
+__init__	../lab2/repeater.py	/^    def __init__(self):$/;"	kind:member	line:53
+__init__	../lab2/repeater.py	/^    def __init__(self, *args, **kwargs):$/;"	kind:member	line:13
+__init__	../lab2/repeater.py	/^    def __init__(self, *args, **kwargs):$/;"	kind:member	line:37
+__init__	../lab3/lab3.py	/^    def __init__(self):$/;"	kind:member	line:194
+__init__	../lab3/lab3.py	/^    def __init__(self, i, global_requests):$/;"	kind:member	line:52
+__init__	../lab3/lift.py	/^    def __init__(self):$/;"	kind:member	line:113
+__init__	../lab3/lift.py	/^    def __init__(self, *args, **kwargs):$/;"	kind:member	line:11
+__init__	../lab3/lift.py	/^    def __init__(self, *args, **kwargs):$/;"	kind:member	line:42
+__init__	../lab3/lift.py	/^    def __init__(self, *args, **kwargs):$/;"	kind:member	line:85
+__init__	../lab4/lab4.py	/^    def __init__(self):$/;"	kind:member	line:220
+__init__	../lab4/lab4.py	/^    def __init__(self, i, global_requests):$/;"	kind:member	line:52
+__init__	../lab4/lift.py	/^    def __init__(self):$/;"	kind:member	line:113
+__init__	../lab4/lift.py	/^    def __init__(self, *args, **kwargs):$/;"	kind:member	line:11
+__init__	../lab4/lift.py	/^    def __init__(self, *args, **kwargs):$/;"	kind:member	line:42
+__init__	../lab4/lift.py	/^    def __init__(self, *args, **kwargs):$/;"	kind:member	line:85
+__repr__	../lab3/lab3.py	/^    def __repr__(self):$/;"	kind:member	line:186
+__repr__	../lab4/lab4.py	/^    def __repr__(self):$/;"	kind:member	line:212
+__str__	../lab3/lab3.py	/^    def __str__(self):$/;"	kind:member	line:176
+__str__	../lab4/lab4.py	/^    def __str__(self):$/;"	kind:member	line:202
+_blink	../lab1/lab1.py	/^    def _blink(self):$/;"	kind:member	line:203
+_blink	../lab2/lab2.py	/^    def _blink(self):$/;"	kind:member	line:259
+_blink_once	../lab1/lab1.py	/^    def _blink_once(self, val):$/;"	kind:member	line:148
+_blink_once	../lab2/lab2.py	/^    def _blink_once(self, val):$/;"	kind:member	line:204
+_clear_btn_events	../lab1/lab1.py	/^    def _clear_btn_events(self):$/;"	kind:member	line:177
+_clear_btn_events	../lab2/lab2.py	/^    def _clear_btn_events(self):$/;"	kind:member	line:233
+_dbg	../lab1/lab1.py	/^    def _dbg(self, dt):$/;"	kind:member	line:181
+_dbg	../lab2/lab2.py	/^    def _dbg(self, dt):$/;"	kind:member	line:237
+_die	../lab3/lab3.py	/^    def _die(self, msg):$/;"	kind:member	line:357
+_die	../lab4/lab4.py	/^    def _die(self, msg):$/;"	kind:member	line:408
+_disable_btns	../lab1/lab1.py	/^    def _disable_btns(self):$/;"	kind:member	line:165
+_disable_btns	../lab2/lab2.py	/^    def _disable_btns(self):$/;"	kind:member	line:221
+_enable_btns	../lab1/lab1.py	/^    def _enable_btns(self):$/;"	kind:member	line:170
+_enable_btns	../lab2/lab2.py	/^    def _enable_btns(self):$/;"	kind:member	line:226
+_schedule	../lab1/lab1.py	/^    def _schedule(self, fn, by, *args, name=None):$/;"	kind:member	line:139
+_schedule	../lab2/lab2.py	/^    def _schedule(self, fn, by, *args, name=None):$/;"	kind:member	line:195
+_set	../lab1/lab1.py	/^    def _set(self, i, value):$/;"	kind:member	line:155
+_set	../lab2/lab2.py	/^    def _set(self, i, value):$/;"	kind:member	line:211
+_set_all	../lab1/lab1.py	/^    def _set_all(self, value):$/;"	kind:member	line:158
+_set_all	../lab2/lab2.py	/^    def _set_all(self, value):$/;"	kind:member	line:214
+_set_dir_led	../lab3/lab3.py	/^    def _set_dir_led(self, elevator, value):$/;"	kind:member	line:354
+_set_dir_led	../lab4/lab4.py	/^    def _set_dir_led(self, elevator, value):$/;"	kind:member	line:405
+_set_state	../lab1/lab1.py	/^    def _set_state(self, state):$/;"	kind:member	line:162
+_set_state	../lab2/lab2.py	/^    def _set_state(self, state):$/;"	kind:member	line:218
+_set_state_led	../lab3/lab3.py	/^    def _set_state_led(self, elevator, floor, value):$/;"	kind:member	line:348
+_set_state_led	../lab4/lab4.py	/^    def _set_state_led(self, elevator, floor, value):$/;"	kind:member	line:399
+_toggle	../lab3/lift.py	/^    def _toggle(self, _):$/;"	kind:member	line:103
+_toggle	../lab4/lift.py	/^    def _toggle(self, _):$/;"	kind:member	line:103
+action_close	../lab3/lab3.py	/^    def action_close(self):$/;"	kind:member	line:99
+action_close	../lab4/lab4.py	/^    def action_close(self):$/;"	kind:member	line:112
+action_move	../lab3/lab3.py	/^    def action_move(self):$/;"	kind:member	line:70
+action_move	../lab4/lab4.py	/^    def action_move(self):$/;"	kind:member	line:74
+action_open	../lab3/lab3.py	/^    def action_open(self):$/;"	kind:member	line:84
+action_open	../lab4/lab4.py	/^    def action_open(self):$/;"	kind:member	line:97
+action_proceed	../lab3/lab3.py	/^    def action_proceed(self):$/;"	kind:member	line:103
+action_proceed	../lab4/lab4.py	/^    def action_proceed(self):$/;"	kind:member	line:116
+blink	../lab1/lab1.py	/^    def blink(self):$/;"	kind:member	line:194
+blink	../lab2/lab2.py	/^    def blink(self):$/;"	kind:member	line:250
+btn_handler	../lab1/lab1.py	/^    def btn_handler(self, btn, value):$/;"	kind:member	line:60
+btn_handler	../lab2/lab2.py	/^    def btn_handler(self, btn, value):$/;"	kind:member	line:71
+build	../lab1/repeater.py	/^    def build(self):$/;"	kind:member	line:81
+build	../lab2/repeater.py	/^    def build(self):$/;"	kind:member	line:81
+build	../lab3/lift.py	/^    def build(self):$/;"	kind:member	line:141
+build	../lab4/lift.py	/^    def build(self):$/;"	kind:member	line:141
+closest_stop	../lab3/lab3.py	/^    def closest_stop(self):$/;"	kind:member	line:145
+closest_stop	../lab4/lab4.py	/^    def closest_stop(self):$/;"	kind:member	line:161
+color	../lab1/repeater.py	/^    color = ReferenceListProperty(color_r, color_g, color_b)$/;"	kind:variable	line:35
+color	../lab2/repeater.py	/^    color = ReferenceListProperty(color_r, color_g, color_b)$/;"	kind:variable	line:35
+color	../lab3/lift.py	/^    color = ListProperty(st_colors[STATE_FAR])$/;"	kind:variable	line:75
+color	../lab4/lift.py	/^    color = ListProperty(st_colors[STATE_FAR])$/;"	kind:variable	line:75
+color_b	../lab1/repeater.py	/^    color_b = NumericProperty(0)$/;"	kind:variable	line:34
+color_b	../lab2/repeater.py	/^    color_b = NumericProperty(0)$/;"	kind:variable	line:34
+color_g	../lab1/repeater.py	/^    color_g = NumericProperty(0)$/;"	kind:variable	line:33
+color_g	../lab2/repeater.py	/^    color_g = NumericProperty(0)$/;"	kind:variable	line:33
+color_r	../lab1/repeater.py	/^    color_r = NumericProperty(0)$/;"	kind:variable	line:32
+color_r	../lab2/repeater.py	/^    color_r = NumericProperty(0)$/;"	kind:variable	line:32
+control_loop	../lab3/lab3.py	/^    def control_loop(self):$/;"	kind:member	line:260
+control_loop	../lab4/lab4.py	/^    def control_loop(self):$/;"	kind:member	line:300
+destroy	../lab1/lab1.py	/^    def destroy(self):$/;"	kind:member	line:200
+destroy	../lab2/lab2.py	/^    def destroy(self):$/;"	kind:member	line:256
+dir_colors	../lab3/lift.py	/^    dir_colors = DictProperty({$/;"	kind:variable	line:37
+dir_colors	../lab4/lift.py	/^    dir_colors = DictProperty({$/;"	kind:variable	line:37
+display_error	../lab1/lab1.py	/^    def display_error(self, msg):$/;"	kind:member	line:131
+display_error	../lab2/lab2.py	/^    def display_error(self, msg):$/;"	kind:member	line:173
+display_item	../lab1/lab1.py	/^    def display_item(self, pos):$/;"	kind:member	line:106
+display_item	../lab2/lab2.py	/^    def display_item(self, pos):$/;"	kind:member	line:148
+display_winner	../lab2/lab2.py	/^    def display_winner(self):$/;"	kind:member	line:186
+distance	../lab3/lab3.py	/^    def distance(self, floor):$/;"	kind:member	line:148
+distance	../lab4/lab4.py	/^    def distance(self, floor):$/;"	kind:member	line:164
+f	../lab1/lab1.py	/^        def f(dt):$/;"	kind:function	line:140
+f	../lab1/lab1.py	/^        def f(dt):$/;"	kind:function	line:149
+f	../lab1/repeater.py	/^        def f(pin_state):$/;"	kind:function	line:59
+f	../lab2/lab2.py	/^        def f(dt):$/;"	kind:function	line:196
+f	../lab2/lab2.py	/^        def f(dt):$/;"	kind:function	line:205
+f	../lab2/repeater.py	/^        def f(pin_state):$/;"	kind:function	line:59
+f	../lab3/lab3.py	/^    def f(dt):$/;"	kind:function	line:366
+f	../lab3/lab3.py	/^    def f(dt):$/;"	kind:function	line:376
+f	../lab3/lift.py	/^        def f(item_state):$/;"	kind:function	line:136
+f	../lab4/lab4.py	/^    def f(dt):$/;"	kind:function	line:417
+f	../lab4/lab4.py	/^    def f(dt):$/;"	kind:function	line:427
+f	../lab4/lift.py	/^        def f(item_state):$/;"	kind:function	line:136
+finalize_lift_click	../lab3/lab3.py	/^    def finalize_lift_click(self, elevator):$/;"	kind:member	line:253
+finalize_lift_click	../lab4/lab4.py	/^    def finalize_lift_click(self, elevator):$/;"	kind:member	line:290
+floor_btn_handler	../lab3/lab3.py	/^    def floor_btn_handler(self, id, value):$/;"	kind:member	line:225
+floor_btn_handler	../lab4/lab4.py	/^    def floor_btn_handler(self, id, value):$/;"	kind:member	line:252
+get	../lab1/repeater.py	/^    def get(self, id):$/;"	kind:member	line:75
+get	../lab2/repeater.py	/^    def get(self, id):$/;"	kind:member	line:75
+get	../lab3/lift.py	/^    def get(self, id):$/;"	kind:member	line:129
+get	../lab4/lift.py	/^    def get(self, id):$/;"	kind:member	line:129
+has_direction_stops	../lab3/lab3.py	/^    def has_direction_stops(self):$/;"	kind:member	line:137
+has_direction_stops	../lab4/lab4.py	/^    def has_direction_stops(self):$/;"	kind:member	line:153
+has_stops	../lab3/lab3.py	/^    def has_stops(self):$/;"	kind:member	line:134
+has_stops	../lab4/lab4.py	/^    def has_stops(self):$/;"	kind:member	line:150
+init_clicks	../lab1/lab1.py	/^    def init_clicks(self):$/;"	kind:member	line:120
+init_clicks	../lab2/lab2.py	/^    def init_clicks(self):$/;"	kind:member	line:162
+init_game	../lab2/lab2.py	/^    def init_game(self):$/;"	kind:member	line:110
+init_single	../lab2/lab2.py	/^    def init_single(self, player):$/;"	kind:member	line:120
+integer	../lab3/lab3.py	/^def integer(x):$/;"	kind:function	line:39
+integer	../lab4/lab4.py	/^def integer(x):$/;"	kind:function	line:39
+item_state	../lab3/lift.py	/^    def item_state(self):$/;"	kind:member	line:47
+item_state	../lab3/lift.py	/^    def item_state(self):$/;"	kind:member	line:91
+item_state	../lab3/lift.py	/^    def item_state(self, d):$/;"	kind:member	line:51
+item_state	../lab3/lift.py	/^    def item_state(self, new):$/;"	kind:member	line:95
+item_state	../lab4/lift.py	/^    def item_state(self):$/;"	kind:member	line:47
+item_state	../lab4/lift.py	/^    def item_state(self):$/;"	kind:member	line:91
+item_state	../lab4/lift.py	/^    def item_state(self, d):$/;"	kind:member	line:51
+item_state	../lab4/lift.py	/^    def item_state(self, new):$/;"	kind:member	line:95
+lab1.py	../lab1/lab1.py	1;"	kind:file	line:1
+lab2.py	../lab2/lab2.py	1;"	kind:file	line:1
+lab3.py	../lab3/lab3.py	1;"	kind:file	line:1
+lab4.py	../lab4/lab4.py	1;"	kind:file	line:1
+lift.py	../lab3/lift.py	1;"	kind:file	line:1
+lift.py	../lab4/lift.py	1;"	kind:file	line:1
+lift_btn_handler	../lab3/lab3.py	/^    def lift_btn_handler(self, id, value):$/;"	kind:member	line:238
+lift_btn_handler	../lab4/lab4.py	/^    def lift_btn_handler(self, id, value):$/;"	kind:member	line:265
+ls	../lab3/lab3.py	/^    ls = LiftSimulator()$/;"	kind:variable	line:389
+ls	../lab4/lab4.py	/^    ls = LiftSimulator()$/;"	kind:variable	line:440
+next_floor	../lab3/lab3.py	/^    def next_floor(self):$/;"	kind:member	line:151
+next_floor	../lab4/lab4.py	/^    def next_floor(self):$/;"	kind:member	line:167
+on_press	../lab1/repeater.py	/^    def on_press(self):$/;"	kind:member	line:18
+on_press	../lab2/repeater.py	/^    def on_press(self):$/;"	kind:member	line:18
+on_press	../lab3/lift.py	/^    def on_press(self):$/;"	kind:member	line:16
+on_press	../lab4/lift.py	/^    def on_press(self):$/;"	kind:member	line:16
+on_release	../lab1/repeater.py	/^    def on_release(self):$/;"	kind:member	line:23
+on_release	../lab2/repeater.py	/^    def on_release(self):$/;"	kind:member	line:23
+on_release	../lab3/lift.py	/^    def on_release(self):$/;"	kind:member	line:21
+on_release	../lab4/lift.py	/^    def on_release(self):$/;"	kind:member	line:21
+other	../lab3/lab3.py	/^def other(x):$/;"	kind:function	line:43
+other	../lab4/lab4.py	/^def other(x):$/;"	kind:function	line:43
+pin_state	../lab1/repeater.py	/^    def pin_state(self):$/;"	kind:member	line:42
+pin_state	../lab1/repeater.py	/^    def pin_state(self, new):$/;"	kind:member	line:46
+pin_state	../lab2/repeater.py	/^    def pin_state(self):$/;"	kind:member	line:42
+pin_state	../lab2/repeater.py	/^    def pin_state(self, new):$/;"	kind:member	line:46
+play	../lab1/lab1.py	/^    def play(self):$/;"	kind:member	line:43
+play	../lab2/lab2.py	/^    def play(self):$/;"	kind:member	line:50
+r	../lab1/repeater.py	/^    r = Repeater()$/;"	kind:variable	line:93
+r	../lab2/repeater.py	/^    r = Repeater()$/;"	kind:variable	line:93
+reachable	../lab3/lab3.py	/^    def reachable(self, floor):$/;"	kind:member	line:157
+reachable	../lab4/lab4.py	/^    def reachable(self, floor):$/;"	kind:member	line:173
+register_handler	../lab1/repeater.py	/^    def register_handler(self, id, handler):$/;"	kind:member	line:64
+register_handler	../lab2/repeater.py	/^    def register_handler(self, id, handler):$/;"	kind:member	line:64
+register_handler	../lab3/lift.py	/^    def register_handler(self, id, handler):$/;"	kind:member	line:118
+register_handler	../lab4/lift.py	/^    def register_handler(self, id, handler):$/;"	kind:member	line:118
+repeater.py	../lab1/repeater.py	1;"	kind:file	line:1
+repeater.py	../lab2/repeater.py	1;"	kind:file	line:1
+reset_handler	../lab1/lab1.py	/^    def reset_handler(self, _, value):$/;"	kind:member	line:52
+reset_handler	../lab2/lab2.py	/^    def reset_handler(self, _, value):$/;"	kind:member	line:63
+run	../lab2/lab2.py	/^    def run(self, num=0):$/;"	kind:member	line:280
+schedule_event	../lab3/lab3.py	/^def schedule_event(fn, by, *args, name=None, debug=True):$/;"	kind:function	line:365
+schedule_event	../lab4/lab4.py	/^def schedule_event(fn, by, *args, name=None, debug=True):$/;"	kind:function	line:416
+schedule_interval	../lab3/lab3.py	/^def schedule_interval(fn, interval, *args, name=None, debug=True):$/;"	kind:function	line:375
+schedule_interval	../lab4/lab4.py	/^def schedule_interval(fn, interval, *args, name=None, debug=True):$/;"	kind:function	line:426
+send_idle_to	../lab3/lab3.py	/^    def send_idle_to(self, floor):$/;"	kind:member	line:121
+send_idle_to	../lab4/lab4.py	/^    def send_idle_to(self, floor, open_doors=True):$/;"	kind:member	line:134
+set	../lab1/repeater.py	/^    def set(self, id, pin_state):$/;"	kind:member	line:78
+set	../lab2/repeater.py	/^    def set(self, id, pin_state):$/;"	kind:member	line:78
+set	../lab3/lift.py	/^    def set(self, id, item_state):$/;"	kind:member	line:132
+set	../lab4/lift.py	/^    def set(self, id, item_state):$/;"	kind:member	line:132
+set_pending_idle	../lab4/lab4.py	/^    def set_pending_idle(self, floor):$/;"	kind:member	line:192
+set_state	../lab3/lab3.py	/^    def set_state(self, state, direction, doors, next_event=None, next_event_time=None, idle=False):$/;"	kind:member	line:113
+set_state	../lab4/lab4.py	/^    def set_state(self, state, direction, doors, next_event=None, next_event_time=None, idle=False):$/;"	kind:member	line:126
+simulate	../lab3/lab3.py	/^    def simulate(self):$/;"	kind:member	line:217
+simulate	../lab4/lab4.py	/^    def simulate(self):$/;"	kind:member	line:244
+st_colors	../lab3/lift.py	/^    st_colors = {$/;"	kind:variable	line:66
+st_colors	../lab4/lift.py	/^    st_colors = {$/;"	kind:variable	line:66
+st_intervals	../lab3/lift.py	/^    st_intervals = {$/;"	kind:variable	line:77
+st_intervals	../lab4/lift.py	/^    st_intervals = {$/;"	kind:variable	line:77
+start	../lab1/lab1.py	/^    def start(self, length):$/;"	kind:member	line:90
+start_handler	../lab1/lab1.py	/^    def start_handler(self, _, value):$/;"	kind:member	line:46
+start_handler	../lab2/lab2.py	/^    def start_handler(self, _, value):$/;"	kind:member	line:55
+start_single	../lab2/lab2.py	/^    def start_single(self, player, length):$/;"	kind:member	line:131
+trigger_event	../lab1/repeater.py	/^    def trigger_event(self, id):$/;"	kind:member	line:70
+trigger_event	../lab2/repeater.py	/^    def trigger_event(self, id):$/;"	kind:member	line:70
+trigger_event	../lab3/lift.py	/^    def trigger_event(self, id):$/;"	kind:member	line:124
+trigger_event	../lab4/lift.py	/^    def trigger_event(self, id):$/;"	kind:member	line:124
+unregister_handler	../lab1/repeater.py	/^    def unregister_handler(self, id):$/;"	kind:member	line:67
+unregister_handler	../lab2/repeater.py	/^    def unregister_handler(self, id):$/;"	kind:member	line:67
+unregister_handler	../lab3/lift.py	/^    def unregister_handler(self, id):$/;"	kind:member	line:121
+unregister_handler	../lab4/lift.py	/^    def unregister_handler(self, id):$/;"	kind:member	line:121
+unset_pending_idle	../lab4/lab4.py	/^    def unset_pending_idle(self):$/;"	kind:member	line:197
+update	../lab1/repeater.py	/^    def update(self, id):$/;"	kind:member	line:58
+update	../lab2/repeater.py	/^    def update(self, id):$/;"	kind:member	line:58
+update	../lab3/lift.py	/^    def update(self, id):$/;"	kind:member	line:135
+update	../lab4/lift.py	/^    def update(self, id):$/;"	kind:member	line:135
+update_ui	../lab3/lab3.py	/^    def update_ui(self):$/;"	kind:member	line:315
+update_ui	../lab4/lab4.py	/^    def update_ui(self):$/;"	kind:member	line:366

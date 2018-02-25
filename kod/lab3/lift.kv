@@ -1,0 +1,141 @@
+<DirectionLED@Label>:
+    canvas:
+        Color:
+            rgba: self.dir_colors[-1]
+        Line:
+            points: (self.center_x - 25, self.center_y, self.center_x + 25, self.center_y)
+            width: 2.5
+        Color:
+            rgba: self.dir_colors[0]
+        Line:
+            points: (self.center_x - 25, self.center_y - 25, self.center_x, self.center_y + 25, self.center_x + 25, self.center_y - 25)
+            width: 2.5
+        Color:
+            rgba: self.dir_colors[1]
+        Line:
+            points: (self.center_x - 25, self.center_y + 25, self.center_x, self.center_y - 25, self.center_x + 25, self.center_y + 25)
+            width: 2.5
+
+
+<StateLED@Label>:
+    canvas:
+        Color:
+            rgb: self.color
+        Ellipse:
+            pos: self.center_x-20, self.center_y-20
+            size: 40, 40
+
+<Blank@Label>
+    text: ''
+
+<TitleLabel@Label>
+    font_size: 20
+    markup: True
+
+<PushButton@Button>
+
+<LiftInterface@BoxLayout>:
+    orientation: 'vertical'
+
+    BoxLayout:
+        orientation: 'horizontal'
+        padding: [50, 0]
+        size_hint: (1.0, 0.25)
+
+        canvas.before:
+            Color:
+                rgb: 0.1, 0.1, 0.1
+            Rectangle:
+                pos: self.pos
+                size: self.size
+
+        TitleLabel:
+            text: '[b]Lift 1[/b]'
+
+        Blank
+
+        TitleLabel:
+            text: '[b]Lift 2[/b]'
+
+    BoxLayout:
+        orientation: 'horizontal'
+        padding: [50, 10]
+        size_hint: (1.0, 0.25)
+
+        canvas.before:
+            Color:
+                rgb: 0.05, 0.05, 0.05
+            Rectangle:
+                pos: self.pos
+                size: self.size
+
+        DirectionLED:
+            id: l1_d
+        Blank
+        DirectionLED:
+            id: l2_d
+
+    GridLayout:
+        id: grid
+
+        cols: 3
+        rows: 5
+        padding: [50 + root.width/20, 25]
+        spacing: (root.width/10, 0)
+
+        StateLED
+            id: l1_5
+        PushButton
+            id: f_5
+        StateLED
+            id: l2_5
+
+        StateLED
+            id: l1_4
+        PushButton
+            id: f_4
+        StateLED
+            id: l2_4
+
+        StateLED
+            id: l1_3
+        PushButton
+            id: f_3
+        StateLED
+            id: l2_3
+
+        StateLED
+            id: l1_2
+        PushButton
+            id: f_2
+        StateLED
+            id: l2_2
+
+        StateLED
+            id: l1_1
+        PushButton
+            id: f_1
+        StateLED
+            id: l2_1
+
+    BoxLayout:
+        orientation: 'horizontal'
+        padding: [50 + root.width/20, 10]
+        size_hint: (1.0, 0.25)
+
+        canvas.before:
+            Color:
+                rgb: 0.05, 0.05, 0.05
+            Rectangle:
+                pos: self.pos
+                size: self.size
+
+        PushButton
+            id: l1_p
+            size_hint: (0.5, 1.0)
+
+        Blank
+
+        PushButton
+            id: l2_p
+            size_hint: (0.5, 1.0)

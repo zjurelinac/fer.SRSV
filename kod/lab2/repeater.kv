@@ -1,0 +1,100 @@
+#:kivy 1.0.9
+
+<LEDLight@Label>:
+    canvas:
+        Color:
+            rgb: self.color
+        Ellipse:
+            pos: self.center_x-50, self.center_y-50
+            size: 100, 100
+
+<Blank@Label>
+
+<SwitchButton@Button>
+
+
+<RepeaterInterface>:
+    Label:
+        canvas.before:
+            Color:
+                rgb: 0.15, 0.15, 0.15
+            Rectangle:
+                pos: self.pos
+                size: self.size
+        font_size: 25
+        width: root.width
+        x: 0
+        y: root.height - 100
+        text: "Igra ponavljanja 2"
+        height: 100
+    GridLayout:
+        x: 0
+        y: root.height - 200
+        cols: 5
+        rows: 4
+        row_default_height: (root.height - 100)/4
+        col_default_width: root.width/5
+        row_force_default: True
+        col_force_default: True
+
+        SwitchButton:
+            text: "[b]Start[/b]\n(SW5)"
+            markup: True
+            id: sw5
+        Blank:
+            text: ""
+        Blank:
+            text: ""
+        Blank:
+            text: ""
+        SwitchButton:
+            text: "[b]Reset[/b]\n(SW1)"
+            markup: True
+            id: sw1
+
+        SwitchButton:
+            text: "(SW6)"
+            id: sw6
+            disabled: True
+        LEDLight:
+            id: ds3
+        LEDLight:
+            id: ds2
+        LEDLight:
+            id: ds1
+        SwitchButton:
+            text: "(SW2)"
+            id: sw2
+            disabled: True
+
+
+        SwitchButton:
+            text: "(SW7)"
+            id: sw7
+            disabled: True
+        LEDLight:
+            id: ds6
+        LEDLight:
+            id: ds5
+        LEDLight:
+            id: ds4
+        SwitchButton:
+            text: "(SW3)"
+            id: sw3
+            disabled: True
+
+
+        SwitchButton:
+            text: "(SW8)"
+            id: sw8
+            disabled: True
+        LEDLight:
+            id: ds9
+        LEDLight:
+            id: ds8
+        LEDLight:
+            id: ds7
+        SwitchButton:
+            text: "(SW4)"
+            id: sw4
+            disabled: True
